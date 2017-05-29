@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Build script
+g++ -g -o program Program.cpp
